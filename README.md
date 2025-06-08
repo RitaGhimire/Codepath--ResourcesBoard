@@ -1,6 +1,6 @@
 # React + Vite
 
-🎉 Cincinnati Events Web App (TypeScript)
+🎉 Cincinnati Events Web App
 
 A modern web application built with React and TypeScript to highlight exciting events happening around Cincinnati—from concerts and river cruises to cultural festivals.
 
