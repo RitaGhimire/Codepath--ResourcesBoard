@@ -1,12 +1,23 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎉 Cincinnati Events Web App (TypeScript)
 
-Currently, two official plugins are available:
+A modern web application built with React and TypeScript to highlight exciting events happening around Cincinnati—from concerts and river cruises to cultural festivals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Overview
 
-## Expanding the ESLint configuration
+This project displays a grid of featured events with visuals, dates, and call-to-action buttons. It’s designed to be simple, responsive, and easy to extend.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+
+📅 List of upcoming Cincinnati events
+📸 Event cards with images and descriptions
+🔗 "Learn More" buttons for each event
+💡 Built with TypeScript for type safety
+📱 Responsive layout with CSS Grid
+🛠️ Tech Stack
+
+Framework: React
+Language: TypeScript
+Tooling: Vite
+Styling: Custom CSS
