@@ -36,6 +36,7 @@ This web app displays a list of upcoming events in Cincinnati using a responsive
 ## 📹 Video Walkthrough
 
 ![Video Walkthrough]([https://imgur.com/a/55hg7Be])
+Here is the link just in case: https://imgur.com/a/55hg7Be
 
 > *Replace the link above with your actual GIF walkthrough URL. You can use tools like [Kap](https://getkap.co/), [ScreenToGif](https://www.screentogif.com/), or Peek to record.*
 
